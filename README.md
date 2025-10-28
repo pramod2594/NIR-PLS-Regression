@@ -44,7 +44,7 @@ pip install numpy pandas scikit-learn scipy matplotlib openpyxl
 
 1. Open the notebook in Jupyter:
    ```bash
-   jupyter notebook NIR_PLS_Regression_Pipeline.ipynb
+   jupyter notebook NIR_PLS_Regression.ipynb
    ```
 
 2. Update the configuration section with:
